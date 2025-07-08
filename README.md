@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Sharma</h1>
-<h3 align="center">A passionate MERN Stack Developer from India</h3>
-<h4 align="center">I'm a final-year student at IIIT Gwalior, pursuing an integrated B.Tech and M.Tech in Information Technology. With solid hands-on experience in the MERN stack, I've developed a strong passion for software development. My experience as a Backend Developer has strengthened my ability to build scalable applications and design reliable RESTful APIs. I am actively seeking internship opportunities in SDE/SWE roles to further apply my knowledge, contribute to innovative projects, and grow in a challenging environment.</h4>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h4 align="center">I'm a recent graduate from IIIT Gwalior with an Integrated B.Tech + M.Tech in Information Technology. I'm a backend-focused full-stack developer with hands-on experience in the MERN stack and technologies like Node.js, Express.js, React.js, Next.js, Nest.js, MongoDB, and AWS. My experience as a Backend Developer has strengthened my ability to build scalable applications and design robust RESTful APIs. I’m passionate about coding and problem-solving, and I look forward to contributing to impactful projects and growing in a challenging, fast-paced environment.</h4>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
